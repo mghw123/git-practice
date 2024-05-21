@@ -3,7 +3,9 @@ team: Tigers
 manager: Deborah
 
 coach: Brenda
+=======
 coach: Ruth
+>>>>>>> to-merge
 
 members:
   - Linda
